@@ -13,8 +13,10 @@ A simple REST API project built with FastAPI to manage a list of users.
 ## 🔧 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/user-list-fastapi.git 
+    ```bash
+   git clone https://github.com/ectorr01/fastapi_user_list.git
+   cd fastapi_user_list
+   ```
    
 
 🌐 Available Endpoints
